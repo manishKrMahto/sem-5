@@ -53,10 +53,11 @@ do it by youself (because already covered need a revision only)
 # Internet Technologies 
 
 ### 1. Introduction to HTML, DHTML, XML, CSS  
-**html video link** -> [click here](https://youtu.be/HcOc7P5BMi4?si=sG1wif7hXr02OUAi) 
-**DHTML video link** -> [click here ](https://youtu.be/nVzrfog33j4?si=E5Ymv9Q6_bJWbA-4)
-**XML video link** -> [click here ](https://www.youtube.com/live/QmASaij0cu8?si=yuMs2cqycYuOXt8P)
-**CSS video link** -> [click here ](https://youtu.be/ESnrn1kAD4E?si=f7wYz4sVR4LpFX0e)
+
+* **html video link** -> [click here](https://youtu.be/HcOc7P5BMi4?si=sG1wif7hXr02OUAi) 
+* **DHTML video link** -> [click here ](https://youtu.be/nVzrfog33j4?si=E5Ymv9Q6_bJWbA-4)
+* **XML video link** -> [click here ](https://www.youtube.com/live/QmASaij0cu8?si=yuMs2cqycYuOXt8P)
+* **CSS video link** -> [click here ](https://youtu.be/ESnrn1kAD4E?si=f7wYz4sVR4LpFX0e)
 
 ### 2. JavaScript 
 **JavaScript video link** -> [click here](https://youtu.be/VlPiVmYuoqw?si=AQ1PuZ6RWXBt09RD)
@@ -74,5 +75,5 @@ do it by youself (because already covered need a revision only)
 
 # SOFTWARE ENGINEERING   
 
-**option 1 : video link** -> [clikc here](https://youtu.be/Wnk_pArBylM?si=6pt8_9hoXBlM_9fb)
-**option 2 : video link** -> [clikc here](https://youtu.be/NlLM3sVF8wY?si=SspRKJqk0n2A3tnq)
+* **option 1 : video link** -> [clikc here](https://youtu.be/Wnk_pArBylM?si=6pt8_9hoXBlM_9fb)
+* **option 2 : video link** -> [clikc here](https://youtu.be/NlLM3sVF8wY?si=SspRKJqk0n2A3tnq)
